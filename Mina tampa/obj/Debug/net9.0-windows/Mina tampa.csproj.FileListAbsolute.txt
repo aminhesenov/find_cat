@@ -1,0 +1,17 @@
+D:\ASP.NET\Mina tampa\Mina tampa\bin\Debug\net9.0-windows\Mina tampa.exe
+D:\ASP.NET\Mina tampa\Mina tampa\bin\Debug\net9.0-windows\Mina tampa.deps.json
+D:\ASP.NET\Mina tampa\Mina tampa\bin\Debug\net9.0-windows\Mina tampa.runtimeconfig.json
+D:\ASP.NET\Mina tampa\Mina tampa\bin\Debug\net9.0-windows\Mina tampa.dll
+D:\ASP.NET\Mina tampa\Mina tampa\bin\Debug\net9.0-windows\Mina tampa.pdb
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina_tampa.Form1.resources
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina_tampa.Properties.Resources.resources
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina tampa.csproj.GenerateResource.cache
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina tampa.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina tampa.AssemblyInfoInputs.cache
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina tampa.AssemblyInfo.cs
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina tampa.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina tampa.dll
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\refint\Mina tampa.dll
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina tampa.pdb
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\Mina tampa.genruntimeconfig.cache
+D:\ASP.NET\Mina tampa\Mina tampa\obj\Debug\net9.0-windows\ref\Mina tampa.dll
